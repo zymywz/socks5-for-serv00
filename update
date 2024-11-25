@@ -11,3 +11,4 @@ trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=bpb.m4d3bug.com&alpn=h3
 trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=s1.asrnoor.ir&alpn=h3&fp=randomized&type=ws&host=s1.asrnoor.ir&path=%2Ftr%3Fed%3D2560#BPB-02
 trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=p.asrnoor.ir&alpn=h3&fp=randomized&type=ws&host=p.asrnoor.ir&path=%2Ftr%3Fed%3D2560#BPB-03
 trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=test.xiao888.us.kg&alpn=h3&fp=randomized&type=ws&host=test.xiao888.us.kg&path=%2Ftr%3Fed%3D2560#BPB-04
+vless://db579aaa-3913-42fd-8145-c0c9e01036b6@www.vpslook.com:80?encryption=none&security=none&sni=vless.zymywz.workers.dev&fp=randomized&type=ws&host=vless.zymywz.workers.dev&path=%2F%3Fed%3D2048#zymywz.workers-002-vpslook
