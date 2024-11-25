@@ -7,3 +7,7 @@ trojan://df5b97ae-913f-4cf6-8f2e-0ba18e94a2e7@zzchary.pages.dev:443?security=tls
 hysteria2://b65416db-57b1-4517-9307-33f1104706a3@31.186.87.211:1401/?sni=www.bing.com&alpn=h3&insecure=1#s13-Hysteria2
 vless://b6f67e94-2968-490c-8319-869b286802c9@zymywz.pages.dev:443?encryption=none&security=tls&sni=zymywz.pages.dev&fp=randomized&type=ws&host=zymywz.pages.dev&path=%2F%3Fed%3D2560#zymywz-pages
 vless://db579aaa-3913-42fd-8145-c0c9e01036b6@104.19.185.44:80?encryption=none&security=none&sni=vless.zymywz.workers.dev&fp=randomized&type=ws&host=vless.zymywz.workers.dev&path=%2F%3Fed%3D2048#zymywz.workers-002
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=bpb.m4d3bug.com&alpn=h3&fp=randomized&type=ws&host=bpb.m4d3bug.com&path=%2Ftr%3Fed%3D2560#BPB-01
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=s1.asrnoor.ir&alpn=h3&fp=randomized&type=ws&host=s1.asrnoor.ir&path=%2Ftr%3Fed%3D2560#BPB-02
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=p.asrnoor.ir&alpn=h3&fp=randomized&type=ws&host=p.asrnoor.ir&path=%2Ftr%3Fed%3D2560#BPB-03
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=test.xiao888.us.kg&alpn=h3&fp=randomized&type=ws&host=test.xiao888.us.kg&path=%2Ftr%3Fed%3D2560#BPB-04
