@@ -6,6 +6,4 @@ hysteria2://a1b5f421-d859-496c-bd8a-0dae476d7251@128.204.223.117:4202?sni=www.bi
 hysteria2://58b68bd8-51bb-4b83-b884-50d2541669ec@85.194.246.115:4302?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s12-zechary
 hysteria2://eefcf8d4-571e-4b29-97eb-fd47f9fd7708@128.204.223.43:4102?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-zichary
 hysteria2://2c20791f-9c35-4005-884a-8d4171dc521d@128.204.223.114:4002?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s8-plotta1
-trojan://df5b97ae-913f-4cf6-8f2e-0ba18e94a2e7@zzchary.pages.dev:443?security=tls&sni=zzchary.pages.dev&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=zzchary.pages.dev&path=%2F%3Fed%3D2560#Socks5-s11-zzchary
-trojan://f9f90b34-8242-4698-b0e0-e9ebb24e210e@epeius.plotta.us.kg:443?security=tls&sni=epeius.plotta.us.kg&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epeius.plotta.us.kg&path=%2F%3Fed%3D2560#Socks5-s12-zechary
 trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=bpb.m4d3bug.com&alpn=h3&fp=randomized&type=ws&host=bpb.m4d3bug.com&path=%2Ftr%3Fed%3D2560#BPB-01
